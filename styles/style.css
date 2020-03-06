@@ -1,0 +1,33 @@
+html{
+    font-size: 10px;
+    font-family: 'Oxanium', cursive;
+    background-color: #C2EEE7;
+}
+h1 {
+    font-size:70px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: green;
+    text-shadow: 5px 3px 1px blue;
+}
+
+p,li {
+    font-size: 20px;
+    line-height: 2;
+    letter-spacing: 2px;
+}
+
+body {
+    width: 600px;
+    margin: 10px auto;
+    background-color: #4812D3;
+    padding: 0 20px 20px 20px;
+    border: 7px solid yellow;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+}
